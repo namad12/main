@@ -1,0 +1,46 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "name": "JavaScript",
+            "price": 1000
+        },
+        {
+            "id": 2,
+            "name": "HTML",
+            "price": 200
+        },
+        {
+            "id": 3,
+            "name": "CSS",
+            "price": 500
+        },
+        {
+            "id": 4,
+            "name": "SQL",
+            "price": 3000
+        },
+        {
+            "id": 5,
+            "name": "SQL",
+            "price": 3000
+        }
+    ],
+    "students": [
+        {
+            "id": 1,
+            "name": "Nam",
+            "course_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Phương",
+            "course_id": 5
+        },
+        {
+            "id": 3,
+            "name": "Thảo",
+            "course_id": 3
+        }
+    ]
+}
